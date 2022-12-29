@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @anpirur
-- 👀 I’m interested in development of cross-platform applications
+- 👀 I’m interested in development web
 - 🌱 I’m currently learning dev 
 - 💞️ I’m looking to collaborate on java projects.
 - 📫 How to reach me https://www.linkedin.com/in/angelaruizrivas/
